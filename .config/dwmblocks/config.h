@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 
 /*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
-  {"",  "music",  1,  16}, 
+  {"",  "player",  1,  16}, 
   {"",  "nettraf",  1,  16}, 
   {"",  "volume", 1,  10},
   {"",  "memory", 2,  4},
